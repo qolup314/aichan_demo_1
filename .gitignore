@@ -7,5 +7,5 @@
 .env
 
 # Gemini API KEY
-/public/javascripts/apikey.js
+# /public/javascripts/apikey.js
 
