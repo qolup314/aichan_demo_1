@@ -1,17 +1,9 @@
 import {GoogleGenerativeAI} from "@google/generative-ai";
 import "marked";
 
-// Gemini_API_KEY
-// const apiKey="AIzaSyD5X-Co-gbexOjn32TZBDR2eAciGvZbI-A";
-// const genAI=new GoogleGenerativeAI(apiKey);
 
-// require('dotenv').config();
-// const apiKey = process.env.Gemini_API_KEY;
-// const genAI=new GoogleGenerativeAI(apiKey);
-// console.log(process.env);
-
-const apiKey=config.apikey;
-const genAI=new GoogleGenerativeAI(apiKey);
+// const apiKey=config.apikey;
+const genAI=new GoogleGenerativeAI(Gemini_API_KEY);
 
 
 // parameters

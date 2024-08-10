@@ -44,6 +44,10 @@ p#p_2{
   font-size: large;
 }
 
+p#p_3{
+  text-align: right;
+}
+
 div#answer {
   font-size: large;
 }
@@ -97,6 +101,10 @@ iframe {
     font-size: large;
   }
   
+  p#p_3{
+    text-align: right;
+  }
+
   div#answer {
     font-size: large;
   }
